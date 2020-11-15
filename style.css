@@ -81,9 +81,9 @@ nav:after {
 }
 
 nav ul {
-  float: right;
   list-style: none;
   position: relative;
+  text-align: center;
 }
 
 nav ul li {
@@ -91,6 +91,8 @@ nav ul li {
   display: inline-block;
   float: left;
   background-color: white;
+  display: inline-block;
+  padding: 20px;
 }
 
 nav a {
@@ -160,7 +162,7 @@ footer {
   }
 
   nav ul{
-    float:none;
+    text-align: center;
   }
   .toggle+a,
   .menu {
@@ -230,3 +232,4 @@ footer {
 
   }
 }
+
