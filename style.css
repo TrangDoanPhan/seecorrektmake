@@ -83,7 +83,12 @@ nav ul li {
   display: inline-block;
   float: left;
   background-color: white;
+<<<<<<< HEAD
   padding: 20px;
+=======
+  display: inline-block;
+  padding: 20px 5px;
+>>>>>>> ba8dc2b75c4d89c9a2df7a8a9c5128b465038812
 }
 
 nav a {
