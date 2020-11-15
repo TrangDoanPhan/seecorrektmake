@@ -106,11 +106,8 @@ nav a {
 }
 
 nav ul li ul li:hover {
-  background: lightblue;
-}
-
-nav a:hover {
-  background-color: #3D6BAF;
+  background: lightgrey;
+  transition: 0.4s;
 }
 
 nav ul ul {
@@ -181,7 +178,7 @@ footer {
   }
 
   .toggle:hover {
-    background-color:  #3D6BAF;
+    background-color: #3D6BAF;
   }
 
   [id^=drop]:checked+ul {
@@ -232,4 +229,3 @@ footer {
 
   }
 }
-
