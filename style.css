@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=roboto);
 
 *{
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  margin: 0px;
   word-wrap: break-word !important;
 }
 
@@ -92,7 +92,7 @@ nav ul li {
   float: left;
   background-color: white;
   display: inline-block;
-  padding: 20px;
+  padding: 1px;
 }
 
 nav a {
@@ -169,10 +169,10 @@ footer {
   .toggle {
     display: block;
     background-color: lightgrey;
-    padding: 0 20px;
+    padding: 0px 0px;
     color: black;
     font-size: 20px;
-    line-height: 60px;
+    line-height: 50px;
     text-decoration: none;
     border: none;
   }
@@ -229,3 +229,4 @@ footer {
 
   }
 }
+
